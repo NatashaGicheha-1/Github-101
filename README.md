@@ -1,3 +1,5 @@
+<img width="736" height="1104" alt="image" src="https://github.com/user-attachments/assets/e745524f-1c45-43a8-ac9f-f8cee236b465" />
+
 # Skills I have gained on Github so far 
 ## 1. Using Mau Forest Loss Data Analysis Repository
 * Writing sentences in point form using *space
